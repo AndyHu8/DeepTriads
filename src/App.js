@@ -28,7 +28,8 @@ function App() {
 
 const app = {
   container: {
-    overflowX: "hidden"
+    overflowX: "hidden",
+    fontFamily: "'Reggae One', cursive"
   }
 }
 
